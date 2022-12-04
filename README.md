@@ -1,7 +1,7 @@
 # SimpleMail
 
-A simple Mail Application written in Java.
-
-Focusing on User input, basic String output, loops and if/else statements.
-
-In this Project you'll be able to check balance, deposit and withdraw money.
+ - Generate an email following the syntax firstname.lastname@department.company.com
+ - determine the department(Sales, Developement, Accounting, if none leave blank)
+ - Generate a random String as Password
+ - Set methods to change the password, set mailbox capacity, and defin alternate email adress
+ - Have get methods to display name, email and mailboxcapacity
